@@ -2,7 +2,7 @@
  * This class is used to create the confusion Matrix which returns the values which are entered
  * through the constructor. These values are determined by the confucion matrix method in Naive Bayes
  *
- * @author 504470gb
+ * @author George
  *
  */
 
