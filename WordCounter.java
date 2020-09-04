@@ -2,7 +2,7 @@
  * This class contains multiple methods in order to determine certain aspects of focuswords by running sentences through
  * certain methods and determining certain spam and no spam counts to find out if a String should be classified as spam or no spam
  * 
- * @author 504470gb
+ * @author George
  *
  */
 
