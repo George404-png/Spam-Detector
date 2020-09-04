@@ -10,7 +10,7 @@ import java.util.Scanner;
  * for files to be passed instead of single string sentences which allows for easier and a larger amount of sentences to be 
  * analyzed at once
  * 
- * @author 504470gb
+ * @author George
  *
  */
 
